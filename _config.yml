@@ -2,6 +2,7 @@ name: patricklalonde
 favicon: null
 layout_spectrum: 0.6096471440978348
 typography_spectrum: 0.9633931205607951
+title: TEST
 cta:
   domain: null
   bucket: null
