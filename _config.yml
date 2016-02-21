@@ -1,0 +1,28 @@
+name: patricklalonde
+favicon: null
+layout_spectrum: 0.6096471440978348
+typography_spectrum: 0.9633931205607951
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.9927354247774929
+  lightness: 0.26963633415289223
+  saturation: 0.09427549177780747
+  rhythmicContrast: 0.6489438065327704
+purpose: []
