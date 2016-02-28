@@ -1,6 +1,6 @@
-name: patricklalonde
+name: test-pt-test
 favicon: null
-layout_spectrum: 0.74294
+layout_spectrum: 1
 typography_spectrum: 0.48833
 title: TEST
 cta:
@@ -22,7 +22,7 @@ color:
     - '#fefefe'
     - '#bdcfc3'
     - '#8fb09b'
-  brandStrength: 0.25
+  brandStrength: 0
   lightness: 0.5
   saturation: 0.0625
   rhythmicContrast: 0.75
