@@ -1,5 +1,8 @@
+name: test-pt-test
+favicon: null
+layout_spectrum: 0.5286738
+typography_spectrum: 0.48833
 title: TEST
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.0625
-  brandStrength: 0.5268817
-  lightness: 0.5
   brandColors:
     - '#32a378'
     - '#1e7d55'
     - '#fefefe'
     - '#bdcfc3'
     - '#8fb09b'
+  brandStrength: 0.3125
+  lightness: 0.5
+  saturation: 0.5
   rhythmicContrast: 0.5071685
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: test-pt-test
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.48833
-layout_spectrum: 0.5286738
+purpose: []
