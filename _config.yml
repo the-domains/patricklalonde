@@ -1,8 +1,34 @@
-name: test-pt-test
-favicon: null
-layout_spectrum: 0.5286738
 typography_spectrum: 0.48833
-title: TEST
+color:
+  brandColors:
+    - '#32a378'
+    - '#1e7d55'
+    - '#fefefe'
+    - '#bdcfc3'
+    - '#8fb09b'
+  brandStrength: 0.3125
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5071685
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.5286738
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: test-pt-test
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: BIKE
+    id: ec464251-f9cb-4903-a62c-a043483987fb
+    type: content
+favicon: null
 collections:
   - index:
       path: /
@@ -15,27 +41,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#32a378'
-    - '#1e7d55'
-    - '#fefefe'
-    - '#bdcfc3'
-    - '#8fb09b'
-  brandStrength: 0.3125
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5071685
+title: TEST
 purpose: []
