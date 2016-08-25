@@ -19,15 +19,11 @@ analytics:
   google: null
   facebook: null
   twitter: null
-name: test-pt-test
+name: Patrick Lalonde
 cta:
   domain: null
   bucket: null
   version: null
-navigation:
-  - name: BIKE
-    id: ec464251-f9cb-4903-a62c-a043483987fb
-    type: content
 favicon: null
 collections:
   - index:
